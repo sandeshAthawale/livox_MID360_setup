@@ -63,7 +63,7 @@ colcon build --symlink-install
    ```
 3. Confirm the address:
    ```bash
-  ip a show enp1s0
+   ip a show enp1s0
    ```
 4. Ping the MID-360 (default IP is `192.168.1.1XX`, where `XX` are the final digits of the serial number):
    ```bash
