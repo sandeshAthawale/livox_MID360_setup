@@ -6,7 +6,7 @@ This guide walks through connecting a Livox MID-360 LiDAR, recording its point c
 
 ### 1. Requirements
 - Ubuntu 24.04 with ROS 2 **Jazzy** already installed.
-- Livox MID-360 sensor powered and wired directly to your PCâ€s Ethernet port.
+- Livox MID-360 sensor powered and wired directly to your PC's Ethernet port.
 - Packages:
   ```bash
   sudo apt update
